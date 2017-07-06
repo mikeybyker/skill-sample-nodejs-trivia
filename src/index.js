@@ -20,5 +20,5 @@ exports.handler = function(event, context, callback) {
 
 // Add your questions in ./questions.js
 // Edit app messages in ./language.js
-// Add your own appId and quiz settings in ./constants.js
+// Add your own appId and quiz settings in ./constants.js (rename ./constants.copy.js)
 // Add your function name to ../publish.bat
