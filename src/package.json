@@ -1,7 +1,20 @@
 {
-  "name": "lambda",
-  "version": "1.0.0",
-  "description": "",
+  "name": "sample-trivia",
+  "version": "0.5.0",
+ "description": "An es6 update of the Alexa trivia skill example app",
+  "author": "mikeybyker+github@gmail.com",
+  "keywords": [
+    "alexa",
+    "skill",
+    "trivia",
+    "es6",
+    "skills",
+    "alexa skills kit"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeybyker/skill-sample-nodejs-trivia"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
