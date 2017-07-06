@@ -5,7 +5,7 @@ module.exports = {
      * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
      * Make sure the first answer is the correct one. Set at least ANSWER_COUNT answers, any extras will be shuffled in.
      */
-    "QUESTIONS_EN_GB" : [
+    QUESTIONS_EN_GB : [
         {
             "Reindeer have very thick coats, how many hairs per square inch do they have?": [
                 "13,000",
@@ -17,7 +17,7 @@ module.exports = {
             ]
         },
         {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
+            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in.": [
                 "Japan",
                 "United States",
                 "Finland",
@@ -254,7 +254,7 @@ module.exports = {
             ]
         }
     ],
-    "QUESTIONS_EN_US" : [
+    QUESTIONS_EN_US : [
         {
             "Reindeer have very thick coats, how many hairs per square inch do they have?": [
                 "13,000",
@@ -503,7 +503,7 @@ module.exports = {
             ]
         }
     ],
-    "QUESTIONS_DE_DE" : [
+    QUESTIONS_DE_DE : [
         {
             "Rentiere haben ein sehr dickes Fell. Wie viele Haare pro Quadratzentimeter haben sie?": [
                 "13,000",

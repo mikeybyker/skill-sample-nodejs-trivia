@@ -1,19 +1,15 @@
 {
-  "name": "skill-sample-js-trivia",
+  "name": "lambda",
   "version": "1.0.0",
-  "description": "A simple trivia skill i18n version.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "alexa",
-    "skill",
-    "trivia"
-  ],
-  "author": "Amazon.com",
-  "license": "Apache-2.0",
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "alexa-sdk": "^1.0.6"
+    "alexa-sdk": "^1.0.10",
+    "lodash": "^4.17.4"
   }
 }
